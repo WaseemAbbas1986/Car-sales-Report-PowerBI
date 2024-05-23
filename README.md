@@ -35,4 +35,20 @@ in this project we are focusing on
   - details Grid showing all cars sales information : Create a detail Grid that present all relevent information for each car sale, including car model, body style, color, sales amount, dealer region, date etc
   - create and grod view dashboard displaying a table of all car details in power BI. This should allow a user to export the grid of varius filter applied
  
+### About Data and Data Source 
+In this report we have used "Car sales.csv" file. which contains 24000 rows and 16 columns
+![Car sales](https://github.com/WaseemAbbas1986/Car-sales-Report-PowerBI/assets/168902203/6fea0c58-8460-4c80-88e7-27ec21cd0ae5)
+
+### Tools
+- MS Excel - Data Source
+- Power BI - Creating Report and Dashboard
+
+### car sales report with all relevent KPI and Charts
+
+![Car Sales Dashboard](https://github.com/WaseemAbbas1986/Car-sales-Report-PowerBI/assets/168902203/12c316d4-657b-407c-80ec-4ffea6bcb14d)
+
+ ### Car sales with all details
+
+ ![Car Sales Details](https://github.com/WaseemAbbas1986/Car-sales-Report-PowerBI/assets/168902203/d97241ee-175f-4faa-a3d5-faab61699610)
+
 
