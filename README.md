@@ -6,7 +6,9 @@ in this project we are focusing on
 - Average Price Analysis
 - Car Sold Matrix
 
-### Customer Requiement
+### Problem Statement
+
+
 
 - KPIs requirement
   - YTD Total Sales
@@ -31,5 +33,6 @@ in this project we are focusing on
   - YTD Car Sold by dealer region: Show case YTD sales data based on diffrent dealer regions using a map chart to vusualize sales distribution geographicaly
   - Comopnay wise sales trand in Grid form: Provide a tabular grid that display the sales trand of each company. The grid should showcase the company name along with YTD Sales figure
   - details Grid showing all cars sales information : Create a detail Grid that present all relevent information for each car sale, including car model, body style, color, sales amount, dealer region, date etc
+  - create and grod view dashboard displaying a table of all car details in power BI. This should allow a user to export the grid of varius filter applied
  
 
