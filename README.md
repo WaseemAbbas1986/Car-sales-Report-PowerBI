@@ -27,6 +27,9 @@ in this project we are focusing on
 - Charts Requirements
   - YTD sales Weekly Trend: Display a line chart illustrating the weekly trand of YTD sales. the X-Axis should represnt weeks and y-Axis should show the total sales amount
   - YTD Total Sales By Body Style: Visualize the distribution of YTD Total sales across diffrent car body style using a pie chart
-  - 
+  - YTD Total Sales By Color: Present the distribution of various car colors to the YTD Total sales through a pie chart
+  - YTD Car Sold by dealer region: Show case YTD sales data based on diffrent dealer regions using a map chart to vusualize sales distribution geographicaly
+  - Comopnay wise sales trand in Grid form: Provide a tabular grid that display the sales trand of each company. The grid should showcase the company name along with YTD Sales figure
+  - details Grid showing all cars sales information : Create a detail Grid that present all relevent information for each car sale, including car model, body style, color, sales amount, dealer region, date etc
  
 
